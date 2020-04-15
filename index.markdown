@@ -1,6 +1,6 @@
 ---
 title: index page
-layout: default
+layout: index
+published: true
 ---
-
-index
+pagina index
