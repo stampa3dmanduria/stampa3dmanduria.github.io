@@ -16,6 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-postfiles'
 end
 
 
@@ -30,3 +31,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-admin', group: :jekyll_plugins
+
